@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1598716733700&di=b61c2fd66bcc80045de6b0a62139b6aa&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20170927%2Fb5cba2df9fb4491b9ee440fc64ae2548.png)
+![](http://ww1.sinaimg.cn/large/7dad8649ly1gi7zzar586j20k006f0wi.jpg)
 
 <!--
 **dongzl/dongzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
