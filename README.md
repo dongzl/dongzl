@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![](http://ww1.sinaimg.cn/large/7dad8649ly1gi7zzar586j20k006f0wi.jpg)
-
 <!--
 **dongzl/dongzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
