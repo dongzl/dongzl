@@ -1,3 +1,5 @@
+<!-- 
+
 ### Hi there 👋
 
 Java Senior Software Engineer. Apache ShardingSphere Committer. Engoy Open Source.
@@ -9,6 +11,8 @@ Java Senior Software Engineer. Apache ShardingSphere Committer. Engoy Open Sourc
 - <dongzonglei@apache.org>
 
 ![Zonglei Dong's Github Stats](https://github-readme-stats.vercel.app/api?username=dongzl&show_icons=true&theme=dark)
+
+-->
 
 <!--
 **dongzl/dongzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
