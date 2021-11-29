@@ -2,17 +2,14 @@
 
 ### Hi there 👋
 
-Java Senior Software Engineer. Apache ShardingSphere Committer. Engoy Open Source.
-
-### Contact me
-
-- <https://github.com/dongzl>
-- <https://dongzl.github.io>
-- <dongzonglei@apache.org>
-
-![Zonglei Dong's Github Stats](https://github-readme-stats.vercel.app/api?username=dongzl&show_icons=true&theme=dark)
-
 -->
+
+<a href="https://github.com/dongzl">
+  <img align="left" height=170px src="https://github-readme-stats.vercel.app/api?username=dongzl&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/dongzl">
+  <img align="left" height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongzl&layout=compact&langs_count=10&hide=html,javascript,css,freemarker" />
+</a>
 
 <!--
 **dongzl/dongzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
