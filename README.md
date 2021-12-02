@@ -5,10 +5,10 @@
 -->
 
 <a href="https://github.com/dongzl">
-  <img align="left" height=200px src="https://github-readme-stats.vercel.app/api?username=dongzl&show_icons=true&count_private=true" />
+  <img align="left" height=180px src="https://github-readme-stats.vercel.app/api?username=dongzl&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/dongzl">
-  <img align="left" height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongzl&layout=compact&langs_count=10&hide=html,javascript,css,freemarker" />
+  <img align="left" height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongzl&layout=compact&langs_count=10&hide=html,javascript,css,freemarker" />
 </a>
 
 <!--
